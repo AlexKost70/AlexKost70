@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexKost70&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=AlexKost70&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=codeSTACKr)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexKost70&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=AlexKost70&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=codeSTACKr) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexKost70&langs_count=4&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexKost70&langs_count=4&theme=codeSTACKr)
